@@ -77,7 +77,7 @@
             
             <div class="content">
                 <div class="title m-b-md">
-                    <i>Laragils</i> <b>RagilGantengBanget</b>
+                    <i>Laragils</i> <b>RagilGantengBangettttttt</b>
                 </div>
             <!--<div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
