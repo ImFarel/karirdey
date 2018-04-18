@@ -77,7 +77,7 @@
             
             <div class="content">
                 <div class="title m-b-md">
-                    <i>Laragils</i> <b>RagilGanteng</b>
+                    <i>Laragils</i> <b>Ini Coba branch</b>
                 </div>
             <!--<div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
