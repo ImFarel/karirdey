@@ -70,7 +70,7 @@
                         <a href="{{ url('/home') }}">Home</a>
                     @else
                         <a href="{{ route('login') }}">Login</a>
-                        <a href="{{ route('register') }}">Register</a>
+                        <a href="{{ route('register') }}">Daptar</a>
                     @endauth
                 </div>
             @endif
@@ -79,7 +79,6 @@
                 <div class="title m-b-md">
                     <i>Laragils</i> <b>EWWWWW GELEH</b>
                     @include('test')
-                    
                 </div>
             <!--<div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
