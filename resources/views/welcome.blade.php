@@ -74,10 +74,11 @@
                     @endauth
                 </div>
             @endif
-            
+
             <div class="content">
                 <div class="title m-b-md">
-                    <i>Laragils</i> <b>Ini Coba branch</b>
+                    <i>Laragils</i> <b>EWWWWW GELEH</b>
+                    @include('test')
                 </div>
             <!--<div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
